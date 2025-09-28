@@ -1,1 +1,1 @@
-intentionally empty
+Intentionally empty.
